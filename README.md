@@ -1,7 +1,5 @@
 # Адаптивная верстка сайта "Uber Partners"
 
-Тестовый домен - https://dim-014.github.io/Uber/
-
 Стек использованных технологий:
 - HTML5;
 - Bootstrap;
